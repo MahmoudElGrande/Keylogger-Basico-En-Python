@@ -20,7 +20,7 @@ Un keylogger hecho en Python por tu Hacker favorito.
 
 - 4º Irte sin ser detectado
 
-- 5º Cuando haya pasado un rato o hayas visto a tu victima introducir lo que te interesa presionar ESC para detener el keylogger y extraer el USB, o el documento
+- 5º Cuando haya pasado un rato o hayas visto a tu victima introducir lo que te interesa presionar F8 para detener el keylogger y extraer el USB, o el documento
 readme.txt de la forma que sea mas conveniente (EN UN FUTURO SE ENVIARA AUTOMATICAMENTE A TRAVES DE EMAIL)
 
 HAPPY HACKING :)
@@ -28,5 +28,11 @@ HAPPY HACKING :)
 
 ## [@MahmoudElGrande](https://www.github.com/MahmoudElGrande)
 
+# ACTUALIZACIONES
 
+ - Guardado al cerrar sesion archive() ahora se ejecuta al cerrar sesion mediante la funcion win32api.CTRL_LOGOFF_EVENT de pywin32. [EXPERIMENTAL]
+ 
+ - Cambiada tecla de apagado de ESC a F8 (Causaba problemas)
+ 
+ 
 
